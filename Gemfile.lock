@@ -314,7 +314,8 @@ GEM
       mime-types
       mimemagic (~> 0.3.0)
     pg (0.21.0)
-    puma (3.12.2)
+    puma (4.3.9)
+      nio4r (~> 2.0)
     rack (2.2.2)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -437,7 +438,7 @@ DEPENDENCIES
   omniauth-facebook (~> 4.0)
   paperclip (~> 5.1.0)
   pg (~> 0.21.0)
-  puma (~> 3.0)
+  puma (~> 4.3)
   rails (~> 5.0.3)
   ransack (~> 1.7)
   sass-rails (~> 5.0)
