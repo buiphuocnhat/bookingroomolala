@@ -43,7 +43,7 @@ gem 'toastr-rails', '~> 1.0'
 
 gem 'figaro'
 
-gem 'omniauth', '~> 1.6'
+gem 'omniauth', '~> 1.9'
 gem 'omniauth-facebook', '~> 4.0'
 
 gem 'paperclip', '~> 5.1.0'
